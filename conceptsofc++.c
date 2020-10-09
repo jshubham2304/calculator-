@@ -73,3 +73,11 @@ int main()
 		}
 	return 0;
 }
+Concepts of Object-oriented programming Language:
+
+Class
+Objects
+Encapsulation
+Polymorphism
+Inheritance
+Abstraction
